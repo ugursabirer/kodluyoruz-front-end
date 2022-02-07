@@ -1,3 +1,3 @@
 # Patika
 
-## Başlangıç Seviye Frontend Web Development Patikası
+Başlangıç Seviye Frontend Web Development Patikası
