@@ -1,21 +1,31 @@
-/* Aciklama Satirlari */
-
-body{
-    background-color: black;
-    color: white;
-    font-family: 'Syne Tactile', cursive;
+h1, h2, h3, h4, h5, h6 {
+    color: #404040;
 }
 
-h2 {
-    color: purple;
-    font-size: 64px;
-    text-transform: uppercase;
+h1 {
+    font-size: 30px;
 }
 
 p {
+    font-size: 20px;
+}
+
+#first-article {
     font-size: 40px;
 }
 
-ul {
-    color: blue;
+.text-red {
+    color: red;
+}
+
+.fs-14 {
+    font-size: 14px;
+}
+
+.fs-20 {
+    font-size: 20px;
+}
+
+.fs-30 {
+    font-size: 30px;
 }
