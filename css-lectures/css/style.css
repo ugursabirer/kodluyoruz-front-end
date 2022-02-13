@@ -1,4 +1,9 @@
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     color: #404040;
 }
 
@@ -28,4 +33,34 @@ p {
 
 .fs-30 {
     font-size: 30px;
+}
+
+.color-red .fw-bold {
+    color: red;
+    font-weight: bold;
+}
+
+.color-blue.fw-normal {
+    color: blue;
+    font-weight: normal;
+}
+
+/* li:first-child {
+    color: green;
+}
+
+li:last-child {
+    color: aqua;
+} */
+
+/* li:nth-child(odd) {
+    color: green;
+}
+
+li:nth-child(even) {
+    color: aqua;
+} */
+
+li:nth-child(2n-1) {
+    color: green;
 }
